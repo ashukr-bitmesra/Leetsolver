@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0075-sort-colors) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0075-sort-colors) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/1171-shortest-path-in-binary-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
