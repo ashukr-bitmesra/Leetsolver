@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0075-sort-colors) |
+| [0134-gas-station](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0134-gas-station) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/1171-shortest-path-in-binary-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
