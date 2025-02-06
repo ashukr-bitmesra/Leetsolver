@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0134-gas-station) |
+| [0503-next-greater-element-ii](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0503-next-greater-element-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0134-gas-station) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
