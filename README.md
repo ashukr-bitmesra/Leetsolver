@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0075-sort-colors) |
+| [0556-next-greater-element-iii](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0556-next-greater-element-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0503-next-greater-element-ii) |
+## Math
+|  |
+| ------- |
+| [0556-next-greater-element-iii](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0556-next-greater-element-iii) |
+## String
+|  |
+| ------- |
+| [0556-next-greater-element-iii](https://github.com/ashukr-bitmesra/Leetsolver/tree/master/0556-next-greater-element-iii) |
 <!---LeetCode Topics End-->
